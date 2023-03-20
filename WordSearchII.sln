@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSearchII", "WordSearchII.csproj", "{99A486CE-9DAF-40C2-95A3-468DE36ECECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99A486CE-9DAF-40C2-95A3-468DE36ECECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A486CE-9DAF-40C2-95A3-468DE36ECECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A486CE-9DAF-40C2-95A3-468DE36ECECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A486CE-9DAF-40C2-95A3-468DE36ECECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55804E74-BE9E-4FBC-8255-1437F6E24807}
+	EndGlobalSection
+EndGlobal
